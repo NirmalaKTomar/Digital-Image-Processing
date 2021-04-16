@@ -1,4 +1,4 @@
-#EC-357, Digital Image Processing
+"""#EC-357, Digital Image Processing
 Basic and important operations of Image Processing Using OpenCV
 
 **OpenCV** 
