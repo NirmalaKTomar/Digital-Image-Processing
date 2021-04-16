@@ -1,6 +1,6 @@
-"""#EC-357, Digital Image Processing
-Basic and important operations of Image Processing Using OpenCV
-
+#EC-357, Digital Image Processing
+#Basic and important operations of Image Processing Using OpenCV
+"""
 **OpenCV** 
 
 OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision.
